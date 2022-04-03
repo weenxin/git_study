@@ -4,6 +4,8 @@
 
 **git add** : 使 用`git add good.txt` 将文件加入到stage区
 **git rm --cache** 将文件 从stage区中删除
+**git status**修改good.txt文件,使用git status可以看到，文件状态变为modified
+**git restore**，使用git restore good.txt，可以恢复good.txt文件
 
 
 
