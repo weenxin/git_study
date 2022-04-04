@@ -6,4 +6,4 @@ histry2
 histry3
 modify  aaaaa
 hot_fix add information
-hot_fix add file content
+add file content
