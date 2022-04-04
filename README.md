@@ -25,3 +25,10 @@
 ***git reset --mix*** 移动HEAD指针，重制Stage区，但是不重制Work区
 ***git reset --hard*** 移动HEAD指针，重制Stage区，重制Work区
 
+### 找回删除文件
+***git reset --hard version_hash*** 直接reset到指定位置就好
+
+
+### 比较不同
+***git dif filename*** 查看文件修改内容
+
