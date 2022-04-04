@@ -32,3 +32,17 @@
 ### 比较不同
 ***git dif filename*** 查看文件修改内容
 
+
+### 分支管理
+***git branch hot_fix*** 增加一个分支
+***git branch -v*** 查看分支信息
+***git merge master*** 将master内容合并到当前分支
+
+
+### 远程仓库
+*** git add remote add origin  https://github.com/weenxin/git_study.git*** 增加一个远程仓库
+*** git remote -v*** 查看远程分支
+*** git push origin master*** 推送版本到远程仓库
+
+
+
